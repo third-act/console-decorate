@@ -1,7 +1,10 @@
 [package]
 name = "console-decorate"
 version = "0.1.0"
-edition = "2021"
+edition = "2018"
+license = "MIT"
+description = "A library for decorating text in the console."
+repository = "https://github.com/third-act/console-decorate"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
